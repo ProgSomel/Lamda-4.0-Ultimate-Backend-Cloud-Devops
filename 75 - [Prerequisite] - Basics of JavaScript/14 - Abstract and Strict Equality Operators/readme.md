@@ -179,6 +179,7 @@ if (age == "25") {  // ❌ Bad (works but unclear)
 
 ---
 ![alt text](image.png)
+----------------------------
 ![alt text](image-1.png)
 
 ## License
